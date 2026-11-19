@@ -1,0 +1,23 @@
+# Gradle & build outputs
+.gradle/
+build/
+out/
+
+# Minecraft runtime
+run/
+logs/
+*.log
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db

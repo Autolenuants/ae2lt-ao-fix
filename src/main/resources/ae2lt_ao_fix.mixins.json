@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.moakiee.ae2ltaofix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "CtmFaceGeometryMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
